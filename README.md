@@ -92,7 +92,7 @@ Bible instances were obtained from Portuguese translations of the King James Bib
 
 ## Use in Python
 
-You can load the dataset into your prefered IDE via the following code.
+You can load the dataset into your preferred IDE via the following code.
 
 ```
 import pandas as pd
