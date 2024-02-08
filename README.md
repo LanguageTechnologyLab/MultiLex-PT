@@ -77,12 +77,12 @@ Bible instances were obtained from Portuguese translations of the King James Bib
   </tr>
 
  <tr>
-    <td><b>Gold Complexity Value</b></td>
+    <td><b>gold_complexity_value</b></td>
   <td></td>
   </tr>
 
   <tr>
-    <td><b>Gold Candidate Substitutions</b></td>
+    <td><b>gold_candidate_substitutions</b></td>
   <td></td>
   </tr>
      
@@ -95,7 +95,6 @@ Bible instances were obtained from Portuguese translations of the King James Bib
 import pandas as pd
 
 pd.read_csv("MultiLex.tsv", sep="\t", encoding="utf-8")
-
 ```
 
 
