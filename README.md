@@ -78,12 +78,12 @@ Bible instances were obtained from Portuguese translations of the King James Bib
 
  <tr>
     <td><b>gold_complexity_value</b></td>
-  <td>Averaged returned complexity assigned by the annotators. Currently unavailable due to MLSP-2024 (see below). </td>
+  <td>Averaged returned complexity assigned by the annotators. <b>Currently unavailable due to MLSP-2024 (see below)</b. </td>
   </tr>
 
   <tr>
     <td><b>gold_candidate_substitutions</b></td>
-  <td>Suggested simplifications ranked per suggestion frequency. Currently unavailable due to MLSP-2024 (see below). </td>
+  <td>Suggested simplifications ranked per suggestion frequency. <b>Currently unavailable due to MLSP-2024 (see below)</b. </td>
   </tr>
      
      
