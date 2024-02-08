@@ -100,7 +100,7 @@ import pandas as pd
 pd.read_csv("MultiLex.tsv", sep="\t", encoding="utf-8")
 ```
 
- Please see the following link for a full tutorial on Pandas: https://pandas.pydata.org/docs/user_guide/index.html#user-guide.
+ Please see the following link for a full tutorial on how to use Pandas: https://pandas.pydata.org/docs/user_guide/index.html#user-guide.
 
 
 ## Full Release TBC
