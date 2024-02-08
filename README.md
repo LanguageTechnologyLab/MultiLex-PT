@@ -48,7 +48,7 @@ Bible instances were obtained from Portuguese translations of the King James Bib
     
   <tr>
     <td><b>num_annotators</b></td>
-    <td>Number of annotators who annotated the instance.</td>
+    <td>Number of annotators that annotated the instance.</td>
   </tr>
 
   <tr>
