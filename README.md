@@ -110,5 +110,6 @@ For more information on MLSP-2024 please see: https://sites.google.com/view/mlsp
 
 ## License
 
+CC0 1.0 Universal
 
 
