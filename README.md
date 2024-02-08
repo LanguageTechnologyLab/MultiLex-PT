@@ -92,7 +92,7 @@ Bible instances were obtained from Portuguese translations of the King James Bib
 
 ## Dataset Annotation
 
-Please read the accompany paper (Section 3) for details describing data annotation methods and annotators.
+Please read the accompanying paper (Section 3) for details describing data annotation methods and annotators.
 
 ## Use in Python
 
