@@ -17,49 +17,76 @@ Bible instances were obtained from Portuguese translations of the King James Bib
  
     
   <tr>
-    <td><b>ID</b></td>
-    <td>Instance id that is made up of the original instance id (e.g. 01) and the new additional context id. (e.g. 104): 01-104.</td>
+    <td><b>num_annotation</b></td>
+    <td>Id number assigned to each instance.</td>
   </tr>
     
    <tr>
-    <td><b>ALEXSIS.CW</b></td>
-    <td>The original complex word taken form ALEXSIS and used at TSAR-2022.</td>
+    <td><b>genre_id</b></td>
+    <td>Instance id that is made up of the original instance id (e.g. 01) from pre-existing dataset and a new id (e.g. 104): 01-104</td>
   </tr>
     
   <tr>
-    <td><b>ALEXSIS.Context</b></td>
+    <td><b>genre</b></td>
     <td>The original context for the given complex word taken form ALEXSIS and used at TSAR-2022.</td>
   </tr>
     
   <tr>
-    <td><b>Candidate.Subs@n</b></td>
-    <td>The candidate substitutions generated using MLM on the instances provided by TSAR-2022.</td>
+    <td><b>pt_word</b></td>
+    <td>.</td>
   </tr>
     
   <tr>
-    <td><b>Additional.Context</b></td>
-    <td>New additional context obtained from the CC-News dataset.</td>
+    <td><b>recapitalized_sent</b></td>
+    <td></td>
   </tr>
     
   <tr>
-    <td><b>Additional.Subs@n</b></td>
-    <td>New additional candidate substitutions generated using MLM on the additional contexts taken from the CC-News dataset</td>
+    <td><b>pt_sentence_bold</b></td>
+    <td></td>
   </tr>
     
   <tr>
-    <td><b>Sent.Sim</b></td>
-    <td>The cosine similarities between the SBert sentence embedding of the additional context and the original context provided by TSAR-2022.</td>
+    <td><b>num_annotators</b></td>
+    <td></td>
   </tr>
 
   <tr>
-    <td><b>Word.Sim@n</b></td>
-  <td>The cosine similarities between the word embeddings of the additional candidate substitutions and the original complex word provided by TSAR-2022.</td>
+    <td><b>min_annotation_time</b></td>
+  <td></td>
+  </tr>
+
+<tr>
+    <td><b>max_annotation_time</b></td>
+  <td></td>
+  </tr>
+
+ <tr>
+    <td><b>avg_annotation_time</b></td>
+  <td></td>
+  </tr>
+
+ <tr>
+    <td><b>num_candidate_substitutions</b></td>
+  <td></td>
+  </tr>
+
+ <tr>
+    <td><b>num_unqiue_candidate_substituions</b></td>
+  <td></td>
+  </tr>
+
+ <tr>
+    <td><b>Gold Complexity Value</b></td>
+  <td></td>
+  </tr>
+
+  <tr>
+    <td><b>Gold Candidate Substitutions</b></td>
+  <td></td>
   </tr>
      
-  <tr>
-    <td><b>Gold.Label@n</b></td>
-    <td>The original gold candidate substitutions provided by TSAR-2022.</td>
-  </tr>    
+     
 
 </table>
 
