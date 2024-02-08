@@ -38,7 +38,7 @@ Bible instances were obtained from Portuguese translations of the King James Bib
     
   <tr>
     <td><b>recapitalized_sent</b></td>
-    <td>The context of the target word.</td>
+    <td>The context (sentence) of the target word.</td>
   </tr>
     
   <tr>
