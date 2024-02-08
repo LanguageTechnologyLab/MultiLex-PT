@@ -104,7 +104,7 @@ pd.read_csv("MultiLex.tsv", sep="\t", encoding="utf-8")
 
 
 ## Full Release TBC
-Full release of the dataset, including gold labels, shall be made available after the completion of the Multilingual Lexical Simplification Pipeline (MLSP-2024) shared-task hosted at BEA. 
+Full release of the dataset, including gold labels, shall be made available after the completion of the Multilingual Lexical Simplification Pipeline (MLSP-2024) shared-task hosted at BEA. This shared-task uses data from MultiLex-PT meaning that full release of the dataset would result in an unfair advantage.
 
 For more information on MLSP-2024 please see: https://sites.google.com/view/mlsp-sharedtask-2024/home
 
