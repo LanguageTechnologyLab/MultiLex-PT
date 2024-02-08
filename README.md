@@ -23,67 +23,67 @@ Bible instances were obtained from Portuguese translations of the King James Bib
     
    <tr>
     <td><b>genre_id</b></td>
-    <td>Instance id that is made up of the original instance id (e.g. 01) from pre-existing dataset and a new id (e.g. 104): 01-104</td>
+    <td>Id number that is made up of the original instance id (e.g. 01) from pre-existing dataset and a new id (e.g. 104): 01-104</td>
   </tr>
     
   <tr>
     <td><b>genre</b></td>
-    <td>The original context for the given complex word taken form ALEXSIS and used at TSAR-2022.</td>
+    <td>Genre the extract was taken from.</td>
   </tr>
     
   <tr>
     <td><b>pt_word</b></td>
-    <td>.</td>
+    <td>The target word.</td>
   </tr>
     
   <tr>
     <td><b>recapitalized_sent</b></td>
-    <td></td>
+    <td>The context of the target word.</td>
   </tr>
     
   <tr>
     <td><b>pt_sentence_bold</b></td>
-    <td></td>
+    <td>The context of the target word with the target word in bold as presented to annotators.</td>
   </tr>
     
   <tr>
     <td><b>num_annotators</b></td>
-    <td></td>
+    <td>Number of annotators who annotated the instance.</td>
   </tr>
 
   <tr>
     <td><b>min_annotation_time</b></td>
-  <td></td>
+  <td>The least amount of time taken to annotate the instance.</td>
   </tr>
 
 <tr>
     <td><b>max_annotation_time</b></td>
-  <td></td>
+  <td>The longest amount of time taken to annotate the instance.</td>
   </tr>
 
  <tr>
     <td><b>avg_annotation_time</b></td>
-  <td></td>
+  <td>Average time spent annotating the instance.</td>
   </tr>
 
  <tr>
     <td><b>num_candidate_substitutions</b></td>
-  <td></td>
+  <td>Total number of suggested simplifications. </td>
   </tr>
 
  <tr>
     <td><b>num_unqiue_candidate_substituions</b></td>
-  <td></td>
+  <td>Number of unique simplifications suggested.</td>
   </tr>
 
  <tr>
     <td><b>gold_complexity_value</b></td>
-  <td></td>
+  <td>Averaged returned complexity assigned by the annotators.</td>
   </tr>
 
   <tr>
     <td><b>gold_candidate_substitutions</b></td>
-  <td></td>
+  <td>Suggested simplifications ranked per suggestion frequency.</td>
   </tr>
      
      
