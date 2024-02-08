@@ -78,12 +78,12 @@ Bible instances were obtained from Portuguese translations of the King James Bib
 
  <tr>
     <td><b>gold_complexity_value</b></td>
-  <td>Averaged returned complexity assigned by the annotators.</td>
+  <td>Averaged returned complexity assigned by the annotators. Currently unavailable due to MLSP-2024 (see below). </td>
   </tr>
 
   <tr>
     <td><b>gold_candidate_substitutions</b></td>
-  <td>Suggested simplifications ranked per suggestion frequency.</td>
+  <td>Suggested simplifications ranked per suggestion frequency. Currently unavailable due to MLSP-2024 (see below). </td>
   </tr>
      
      
@@ -91,11 +91,16 @@ Bible instances were obtained from Portuguese translations of the King James Bib
 </table>
 
 ## Use in Python
+
+You can load the dataset into your prefered IDE via the following code.
+
 ```
 import pandas as pd
 
 pd.read_csv("MultiLex.tsv", sep="\t", encoding="utf-8")
 ```
+
+ Please see the following link for a full tutorial on Pandas: https://pandas.pydata.org/docs/user_guide/index.html#user-guide.
 
 
 ## Full Release TBC
